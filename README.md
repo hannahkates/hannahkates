@@ -1,1 +1,1 @@
-Personal portfolio site built using components from Bootstrap's Freelancer](https://startbootstrap.com/template-overviews/freelancer/) template
+Personal portfolio site built using components from Bootstrap's [Freelancer](https://startbootstrap.com/template-overviews/freelancer/) template
